@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:leonardo",
+    "sketch": "Shisha_active_light.ino",
+    "programmer": "arduino:avrisp",
+    "port": "COM6"
+}
